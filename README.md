@@ -1,5 +1,5 @@
 # Bicrypto_v4.6.6_addons_okx_kraken
-bicrypto codevanyon
+bicrypto codecanyon
 
 https://www.mediafire.com/file/j2l4h962hbofo95/bicrypto_4.6.3_all_addons.zip/file
 INSTALL Phpmyadmin to manage your database
