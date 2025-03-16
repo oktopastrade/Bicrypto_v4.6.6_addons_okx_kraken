@@ -3,7 +3,7 @@ bicrypto codecanyon
 
 https://www.mediafire.com/file/j2l4h962hbofo95/bicrypto_4.6.3_all_addons.zip/file
 
-to activate deposit got to https://admin/system/settings?tab=wallet  and check deposit box
+to activate deposit got to https://yourwebsite.com/admin/system/settings?tab=wallet  and check deposit box
 
 
 
